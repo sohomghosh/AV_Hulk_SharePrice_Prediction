@@ -1,0 +1,5 @@
+ID,timestamp,Stock_ID,Volume,Three_Day_Moving_Average,Five_Day_Moving_Average,Ten_Day_Moving_Average,Twenty_Day_Moving_Average,True_Range,Average_True_Range,Positive_Directional_Movement,Negative_Directional_Movement
+1_554,554,1,0.43959,-1.09885,-1.08146,-1.02367,-0.95527,0.11595,0.17058,-0.39903,-0.33365
+2_554,554,2,-0.38494,-0.64131,-0.6434,-0.63477,-0.61062,-0.47816,-0.48696,-0.28545,-0.30166
+3_554,554,3,1.38417,-0.53956,-0.46261,-0.22662,-0.15185,0.27538,0.86787,-0.31078,-0.4377
+4_554,554,4,-0.2204,-1.64317,-1.66702,-1.66951,-1.58663,-0.51638,0.04259,-0.2414,-0.3191
